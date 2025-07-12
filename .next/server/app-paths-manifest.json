@@ -1,0 +1,7 @@
+{
+  "/blog/page": "app/blog/page.js",
+  "/gioi-thieu/page": "app/gioi-thieu/page.js",
+  "/lien-he/page": "app/lien-he/page.js",
+  "/page": "app/page.js",
+  "/san-pham/page": "app/san-pham/page.js"
+}
